@@ -1,12 +1,21 @@
+nav div {
+    width: 100%;
+    height: 8vh;
+}
 nav div ul {
+    margin-top: 2vh;
     list-style: none;
-    text-align: center;
 }
 nav div ul li {
     display: inline; 
-    padding: 1vh 1vh;
-    text-align: center;
+    padding: 10px 25px;
 }
 nav div ul li a{
     text-decoration: none;
+    color: black;
+}
+nav div ul li a:hover{
+    text-decoration: none;
+    color: rgb(110, 110, 110);
+    background-color: rgb(170, 170, 170);
 }
