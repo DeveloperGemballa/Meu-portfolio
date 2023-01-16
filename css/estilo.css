@@ -1,0 +1,12 @@
+nav div ul {
+    list-style: none;
+    text-align: center;
+}
+nav div ul li {
+    display: inline; 
+    padding: 1vh 1vh;
+    text-align: center;
+}
+nav div ul li a{
+    text-decoration: none;
+}
